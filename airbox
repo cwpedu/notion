@@ -1,0 +1,4 @@
+<div class="airmap-widget">
+    <widget-text group="LASS-Airbox" uuid="74DA38F7C47E"></widget-text>
+</div>
+<script src="https://widget.airmap.g0v.tw/js/airmap-widget.js"></script>
